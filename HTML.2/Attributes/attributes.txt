@@ -1,0 +1,19 @@
+Attributes: 
+
+An Attribute is a key value pair that enhances the capability of a html element.
+
+There are 3 types of html Attributes
+
+1.Element specific Attributes
+
+Attributes applied only to specific elements
+
+2. Global Attributes
+
+These attributes can be used with any html element
+
+3. Event Attributes
+
+Any action is considered as an Event
+
+Whenever an event occurs there should be an event handler
